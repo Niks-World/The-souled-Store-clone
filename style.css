@@ -1,0 +1,13 @@
+
+.imghh{
+    height:240px;
+}
+.navbar{
+    text-align: left;
+}
+.footer{
+    display: flex;
+    background-color: beige;
+    height: 80px;
+    gap: 20px;
+}
